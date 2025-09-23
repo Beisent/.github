@@ -11,5 +11,5 @@ Beisent is a group of students who are interested in
 
 ## About subordinate organizations​​
 - Oxygen Studio : They are responsible for the research of computer graphics.
-- Hydrogen Stuio : They are responsible for the research of artificial intelligence.
+- Hydrogen Studio : They are responsible for the research of artificial intelligence.
 
