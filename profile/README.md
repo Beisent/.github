@@ -12,6 +12,6 @@
 - Oxygen Studio : They are responsible for the research of computer graphics.
 - Hydrogen Studio : They are responsible for the research of artificial intelligence.
 
-# How to join us  
+## How to join us  
 Temporarily unable to join  
 
