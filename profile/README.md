@@ -5,7 +5,7 @@
 - We study computer graphics, software development, web development, artificial intelligence, digital logic circuits, mathematics, physics and chemistry.  
 - We will share our research and code. We adhere to the spirit of open source, and you can view all the content for free.  
 - Our goal is innovation and sharing.  
-- our spirit is perseverance and self-discipline.  
+- Our spirit is perseverance and self-discipline.  
 
 
 ## About subordinate organizations​​
